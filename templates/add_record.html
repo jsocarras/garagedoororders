@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Add Record</title>
+</head>
+<body>
+    <form method="post">
+        {% for column in columns %}
+        <label>{{ column }}: <input name="{{ column }}" required /></label>
+        {% endfor %}
+        <input type="submit" value="Add Record" />
+    </form>
+</body>
+</html>

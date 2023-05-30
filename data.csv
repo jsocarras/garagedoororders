@@ -1,0 +1,14 @@
+Invoice,Dealer Name,Customer Name,Address,City,Zip,Door Size,Door Type,Material,Gage,Bottom Bar,Open Wt.,Total Wt,Spring Size,Spring Length
+5678,United Door,Total Wine,1425 NW 87 St ,Hialeah,33012,"10' 2"" x 12' 3""",Code,Steel,22,Single,80lbs,350lbs,0.435,"32"""
+6787,United Door,Airsteed,78345 W. 13 Ave,Miami Lakes,33782,"12' 7"" x 16' 11""",Non-Code,Steel,24,AL,97,425,0.575,"50"""
+5986,United Door,JB Etc,25894 NE 127 Ave,Miami Beach,33182,"16' 2"" x 10' 6""",Big Hole,Steel,22,2x2,102,575,0.378,"42"""
+6852,United Door,Wendy,89725 NE 55 St,Ft Lauderdell,33014,"19' 2"" x 11' 7",Big Hole,AL,20,AL,93,475,0.492,"47"""
+5871,Wendell,Wendell,7845 SW 87 Ave,So. Miami ,33087,"12' 0"" x 14' 8""",Code,Steel,22,Single,113,532,0.378,"37"""
+5687,FL Garage Door,FL Garage Door,,,,"14' 4"" x 8' 3""",Code,Steel,22,Single,110,347,0.462,"52"""
+6852,MC Garage Door,MC Garage Door,,,,"10' 4"" x 11' 7""",Non-Code,Steel,22,2x2,96,310,0.375,"37"""
+6785,Coast to Coast,Pompano FS 10,,,,"14' 7"" x 16' 3""",Code,Steel,22,Single,117,624,0.564,"57"""
+6914,Gustavo,,,,,"10' 2' x 9' 9""",Small Hole,AL,22,AL,78,175,0.265,"38"""
+5876,Coast to Coast,,,,,"12' 4"" x 10' 0""",Code,Steel,22,Single,82,342,0.436,"44"""
+12345,Acme,Firstname Lastname,123 Imaginary St,Beverly Hills,90210,1X2,BL,Stone,10,Gravel,100,1000,0.175,"10"""
+6001,Ry's Garage Doors,ABC Spot,85201 E. 230 Streetr,Homestead,33081,"17' 03"" x15' 6""",Code,Steel,22,Single,170,620,0.623,"67"""
+6007,Ry's Garage Doors,HH Gregg,N/A,N/a,33082,"10' 0 x17' 1""",AL,AL,22,2x2,127,291,0.268,29
