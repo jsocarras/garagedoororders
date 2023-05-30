@@ -26,7 +26,7 @@ pip install flask pandas
 
 Then, navigate to the directory where the app.py file resides. 
 Run the application using the commands:
-- cd <your project folder path goes here>
+- cd *your project folder path goes here*
 - python app.py
 
 Open a web browser and navigate to http://localhost:5000 to view and interact with the application.
